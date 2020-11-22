@@ -586,7 +586,7 @@ input[type="checkbox"]:checked + .checkbox::before {
     margin-left: auto;
     padding-right: 3%;
   }
-  
+}
   @media (max-width:380px){
 
     .checker-center {
@@ -646,7 +646,7 @@ input[type="checkbox"]:checked + .checkbox::before {
         
   }
 
-}
+
 
 /*-------------STORY-SECTION--------------*/
 
