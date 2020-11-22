@@ -421,21 +421,24 @@ input[type="checkbox"]:checked + .checkbox::before {
     margin-bottom: 10px;
   }
   
+  .right{
+    margin: 10px 0px;
+  }
   .checker-center {
-    width: 110px;
-    height: 110px;
+    width: 120px;
+    height: 120px;
     font-size: 14px!important;
   }
   
   .checker-center-border {
-    width: 290px;
-    height: 290px;
+    width: 344px;
+    height: 344px;
   }
   
   
   .checkbox {
-    width: 75px;
-    height: 75px;
+    width: 88px;
+    height: 88px;
     font-size: 10px;
   }
   
@@ -448,31 +451,31 @@ input[type="checkbox"]:checked + .checkbox::before {
   
   
   #checkbox1 {
-    transform: translate(-50%, -50%) rotate(0deg) translateX(-142px);
+    transform: translate(-50%, -50%) rotate(0deg) translateX(-168px);
   }
   
   #checkbox2 {
-    transform: translate(-50%, -50%) rotate(60deg) translateX(-142px)
+    transform: translate(-50%, -50%) rotate(60deg) translateX(-168px)
       rotate(-60deg);
   }
   
   #checkbox3 {
-    transform: translate(-50%, -50%) rotate(120deg) translateX(-142px)
+    transform: translate(-50%, -50%) rotate(120deg) translateX(-168px)
       rotate(-120deg);
   }
   
   #checkbox4 {
-    transform: translate(-50%, -50%) rotate(180deg) translateX(-142px)
+    transform: translate(-50%, -50%) rotate(180deg) translateX(-168px)
       rotate(-180deg);
   }
   
   #checkbox5 {
-    transform: translate(-50%, -50%) rotate(240deg) translateX(-142px)
+    transform: translate(-50%, -50%) rotate(240deg) translateX(-168px)
       rotate(-240deg);
   }
   
   #checkbox6 {
-    transform: translate(-50%, -50%) rotate(300deg) translateX(-142px)
+    transform: translate(-50%, -50%) rotate(300deg) translateX(-168px)
       rotate(-300deg);
   }
   
@@ -505,20 +508,20 @@ input[type="checkbox"]:checked + .checkbox::before {
   }
 
   .checker-center {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     font-size: 14px!important;
   }
   
   .checker-center-border {
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
   }
   
   
   .checkbox {
-    width: 65px;
-    height: 65px;
+    width: 80px;
+    height: 80px;
     font-size: 10px;
   }
   
@@ -531,31 +534,31 @@ input[type="checkbox"]:checked + .checkbox::before {
   
   
   #checkbox1 {
-    transform: translate(-50%, -50%) rotate(0deg) translateX(-117px);
+    transform: translate(-50%, -50%) rotate(0deg) translateX(-144px);
   }
   
   #checkbox2 {
-    transform: translate(-50%, -50%) rotate(60deg) translateX(-117px)
+    transform: translate(-50%, -50%) rotate(60deg) translateX(-144px)
       rotate(-60deg);
   }
   
   #checkbox3 {
-    transform: translate(-50%, -50%) rotate(120deg) translateX(-117px)
+    transform: translate(-50%, -50%) rotate(120deg) translateX(-144px)
       rotate(-120deg);
   }
   
   #checkbox4 {
-    transform: translate(-50%, -50%) rotate(180deg) translateX(-117px)
+    transform: translate(-50%, -50%) rotate(180deg) translateX(-144px)
       rotate(-180deg);
   }
   
   #checkbox5 {
-    transform: translate(-50%, -50%) rotate(240deg) translateX(-117px)
+    transform: translate(-50%, -50%) rotate(240deg) translateX(-144px)
       rotate(-240deg);
   }
   
   #checkbox6 {
-    transform: translate(-50%, -50%) rotate(300deg) translateX(-117px)
+    transform: translate(-50%, -50%) rotate(300deg) translateX(-144px)
       rotate(-300deg);
   }
   
@@ -584,7 +587,64 @@ input[type="checkbox"]:checked + .checkbox::before {
     padding-right: 3%;
   }
   
+  @media (max-width:380px){
 
+    .checker-center {
+      width: 100px;
+      height: 100px;
+      font-size: 14px!important;
+    }
+    
+    .checker-center-border {
+      width: 250px;
+      height: 250px;
+    }
+    
+    
+    .checkbox {
+      width: 65px;
+      height: 65px;
+      font-size: 10px;
+    }
+    
+    .checkbox::before {
+      width: 3.3vw;
+      height: 3.3vw;
+      left: -12%;
+      top: 40%;
+    }
+    
+    
+    #checkbox1 {
+      transform: translate(-50%, -50%) rotate(0deg) translateX(-117px);
+    }
+    
+    #checkbox2 {
+      transform: translate(-50%, -50%) rotate(60deg) translateX(-117px)
+        rotate(-60deg);
+    }
+    
+    #checkbox3 {
+      transform: translate(-50%, -50%) rotate(120deg) translateX(-117px)
+        rotate(-120deg);
+    }
+    
+    #checkbox4 {
+      transform: translate(-50%, -50%) rotate(180deg) translateX(-117px)
+        rotate(-180deg);
+    }
+    
+    #checkbox5 {
+      transform: translate(-50%, -50%) rotate(240deg) translateX(-117px)
+        rotate(-240deg);
+    }
+    
+    #checkbox6 {
+      transform: translate(-50%, -50%) rotate(300deg) translateX(-117px)
+        rotate(-300deg);
+    }
+        
+  }
 
 }
 
