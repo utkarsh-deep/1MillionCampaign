@@ -39,7 +39,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                 <a href="https://www.instagram.com" data-html="true" data-toggle="tooltip" data-placement="right" title="Tap to follow me <br>on <i class='fa fa-instagram' aria-hidden='true'></i>" target="_blank">+</a>
             
             <div class="card-content">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada bibendum tincidunt. Suspendisse venenatis quis orci eget fermentum. Proin massa nisi, convallis bibendum auctor id, placerat ac ante. Nulla facilisi. Aliquam placerat dolor vel lorem pellentesque, eget ultrices purus varius. Nam tristique lorem placerat orci tincidunt, dignissim lobortis leo blandit. Donec augue lectus, mattis in nibh et, consectetur congue erat. </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada bibendum tincidunt. Suspendisse venenatis quis orci eget fermentum. Proin massa nisi, convallis bibendum auctor id, placerat ac ante. </p>
             </div>
         
         </div>
@@ -50,7 +50,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                 <a href="https://www.instagram.com" data-html="true" data-toggle="tooltip" data-placement="right" title="Tap to follow me on <br><i class='fa fa-instagram' aria-hidden='true'></i>" target="_blank">+</i></a>
             
                 <div class="card-content">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada bibendum tincidunt. Suspendisse venenatis quis orci eget fermentum. Proin massa nisi, convallis bibendum auctor id, placerat ac ante. Nulla facilisi. Aliquam placerat dolor vel lorem pellentesque, eget ultrices purus varius. Nam tristique lorem placerat orci tincidunt, dignissim lobortis leo blandit. Donec augue lectus, mattis in nibh et, consectetur congue erat.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada bibendum tincidunt. Suspendisse venenatis quis orci eget fermentum. Proin massa nisi, convallis bibendum auctor id, placerat ac ante.</p>
                 </div>
         
         </div>
@@ -61,7 +61,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                 <a href="https://www.instagram.com" data-html="true" data-toggle="tooltip" data-placement="right" title="Tap to follow me on <br><i class='fa fa-instagram' aria-hidden='true'></i>" target="_blank">+</i></a>
             
             <div class="card-content">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada bibendum tincidunt. Suspendisse venenatis quis orci eget fermentum. Proin massa nisi, convallis bibendum auctor id, placerat ac ante. Nulla facilisi. Aliquam placerat dolor vel lorem pellentesque, eget ultrices purus varius. Nam tristique lorem placerat orci tincidunt, dignissim lobortis leo blandit. Donec augue lectus, mattis in nibh et, consectetur congue erat.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada bibendum tincidunt. Suspendisse venenatis quis orci eget fermentum. Proin massa nisi, convallis bibendum auctor id, placerat ac ante.</p>
             </div>
         
         </div>
